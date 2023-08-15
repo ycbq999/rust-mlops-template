@@ -1334,3 +1334,8 @@ https://able.bio/haixuanTao/deep-learning-in-rust-with-gpu--26c53a7f
 ### Training LLMs from Scratch
 
 * [replit llm training](https://blog.replit.com/llm-training)
+
+### Basic Tutorial
+* [The Rust Programming Language] (https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+
+* [Take your first steps with Rust] (https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
